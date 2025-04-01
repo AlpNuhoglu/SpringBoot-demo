@@ -9,8 +9,6 @@ This is a Spring Boot application designed to manage a simple student database. 
 - [Setup Instructions](#setup-instructions)
 - [Endpoints](#endpoints)
 - [Project Structure](#project-structure)
-- [Contributors](#contributors)
-- [License](#license)
 
 ---
 
